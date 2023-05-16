@@ -41,7 +41,7 @@ const ForgetPassword = () => {
               </p>
               <p>
                 <Link
-                  to="/sign-in"
+                  to="/"
                   className="text-blue-600 hover:text-blue-800 transition duration-200 ease-in-out"
                 >
                   Sign in instead
